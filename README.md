@@ -1,3 +1,8 @@
+Garlic0x1 fork of cl-geoip
+==========================
+
+I added default databases and #'get-continent-code
+
 cl-geoip
 ========
 
